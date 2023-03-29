@@ -3,6 +3,7 @@
 phpunit.xml
 composer.lock
 .scannerwork
+.phpunit.result.cache
 
 # Folders
 vendor
